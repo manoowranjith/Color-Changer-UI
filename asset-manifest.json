@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Color-Changer-UI/static/css/main.ae56e9b0.css",
+    "main.js": "/Color-Changer-UI/static/js/main.5f8f5a8e.js",
+    "static/js/787.1f02e3a1.chunk.js": "/Color-Changer-UI/static/js/787.1f02e3a1.chunk.js",
+    "index.html": "/Color-Changer-UI/index.html",
+    "main.ae56e9b0.css.map": "/Color-Changer-UI/static/css/main.ae56e9b0.css.map",
+    "main.5f8f5a8e.js.map": "/Color-Changer-UI/static/js/main.5f8f5a8e.js.map",
+    "787.1f02e3a1.chunk.js.map": "/Color-Changer-UI/static/js/787.1f02e3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae56e9b0.css",
+    "static/js/main.5f8f5a8e.js"
+  ]
+}
